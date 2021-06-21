@@ -1,7 +1,7 @@
 
 ![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=Sunert&show_icons=true&theme=merko)
 
-# 仓库不维互
+# 仓库不再维互
 
 ## 免责声明:  
 
